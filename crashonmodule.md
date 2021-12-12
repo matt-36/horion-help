@@ -10,3 +10,7 @@ If your game crashes with a module not on this list please report it in the [dis
 
 If your module is on the list, please wait for an update to be released to use the module.
 
+If your client is crashing when trying to join a world or game try Deleting your config
+
+
+
