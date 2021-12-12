@@ -1,6 +1,6 @@
 # Combat module
 
-* Aimbot
+* ## Aimbot
   - aims at the head of a close
   - **currently aims above head**
   - settings
@@ -20,7 +20,8 @@
       - determines whether it snaps to the user or eases into the user
     - includes mobs
       - toggles whether aimbot will aim at mobs or not
-* AutoClicker
+
+* ## AutoClicker
   - automatically clicks your mouse for you
   - settings
     - rightclick
@@ -33,7 +34,8 @@
       - determines how long it takes between each click in ticks (20 per second)
     - hold
       - determines whether you have to hold click or do nothing
-* BowAimbot
+
+* ## BowAimbot
   - aimbot but for a bow
   - settings
     - silent
@@ -42,19 +44,20 @@
       - calculates where the player will be based on your distance and the players speed 
     - visualize
       - shows the prediction of where the user will be based on your distance and the players speed
-* CrystalAura
+
+* ## CrystalAura
   -
-* Criticals
+* ## Criticals
   -
-* Hitbox
+* ## Hitbox
   -
-* InfiniteAura
+* ## InfiniteAura
   -
-* Killaura
+* ## Killaura
   -
-* Reach
+* ## Reach
   -
-* Teams
+* ## Teams
   -
-* TriggerBot
+* ## TriggerBot
   -
