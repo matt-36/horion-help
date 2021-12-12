@@ -4,10 +4,11 @@ The following pages where created to help and address common problems encountere
 
 ## Getting started
 
-To find help for your issue select an option below
+First find from the list below the page you need.
 
-  - [The client crashes when I inject](crashonstart.md)
+  - [Help with installation](install.md)
+  - [Help with modules](modules.md)
+  - [Help with an issue](issues.md)
+  - [Help with a crash](crashes.md)
 
-  - [The client crashes when I enter a world or game](crashonjoin.md)
-
-  - [The client crashes when using a module](crashonmodule.md)
+If none of the above are what you need, join the [discord](https://discord.gg/horion)
