@@ -3,7 +3,7 @@
 * Aimbot
   - aims at the head of a close
   - **currently aims above head**
-  - ## settings
+  - settings
     - range
       - determines how far a user can be until aimbot stops working
     - require click
@@ -22,7 +22,7 @@
       - toggles whether aimbot will aim at mobs or not
 * AutoClicker
   - automatically clicks your mouse for you
-  - ## settings
+  - settings
     - rightclick
       - determines whether it right clicks, or places, instead of attacks
     - only weapons
@@ -34,7 +34,7 @@
     - hold
       - determines whether you have to hold click or do nothing
 * BowAimbot
-  -
+  - aimbot but for a bow
 * CrystalAura
   -
 * Criticals
