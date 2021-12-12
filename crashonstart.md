@@ -10,13 +10,13 @@ This page will cover 2 Solutions, if none of the solutions work join the [discor
 
 Launch your minecraft client and look to to bottom right corner for your version
 
-Make sure that it is the latest version (1.18.2)
+Make sure that it is at least version 1.18.0
 
 If it is not please update your client.
 
 #### Step 2: Check horion version
 
-If you are using the official horion injector you can ignore this section
+If you are using the [official horion injector](https://horion.download/) you can ignore this section
 
 If you are not please [download the newest dll](https://horion.download/dll)
 
