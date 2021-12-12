@@ -35,6 +35,13 @@
       - determines whether you have to hold click or do nothing
 * BowAimbot
   - aimbot but for a bow
+  - settings
+    - silent
+      - currently broken
+    - predicts
+      - calculates where the player will be based on your distance and the players speed 
+    - visualize
+      - shows the prediction of where the user will be based on your distance and the players speed
 * CrystalAura
   -
 * Criticals
