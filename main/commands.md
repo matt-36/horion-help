@@ -7,6 +7,7 @@
   - Lists all commands in the chat
   - Usage
     - .help
+    - .help <moduel name>
 
 - .path
   - Toggles the path module and walks towards a specified destination
@@ -68,3 +69,15 @@
   - Teleports you to a player within your render distance
   - Usage
     - .playertp <username>
+
+- .namespoof
+  - Visually changes your name for everyone in the game
+  - After doing the command, you have to leave the world and rejoin
+  - Name does not reset back to normal when leaving and rejoining or switching to a different world, realm, or server
+  - Usage
+    - .namespoof {name/reset} <name>
+  
+- .cbe
+  - Gives a block that will spawn a command block minecart, sometimes invisible, that will execute a command repeatedly while command blocks are enabled
+  - Usage
+    - .cbe {beehive/beenest/movingblock/invisible/spoof} <command>
