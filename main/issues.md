@@ -6,7 +6,8 @@ The following is a list of known issues
   - Insta break does not work on realms
   - NoFall doesn't work on realms
   - Reach only extends by one block
-  - Damage crashes game
+  - Taking fall damage when flying, impossible to fix since fall damage is now server sided, meaning no way to change it
+  - Damage crashes game, uses fall damage so it won't work anyways
   - Tracer with hitbox breaks tracer, only solution is to die
   - Hitbox does not reset immediately, you need to change dimensions, kill the user, or die to change it back
   - Scaffold crashes when shut off
