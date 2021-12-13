@@ -1,13 +1,16 @@
 # Commands
 
 {option/option} choose one of the listed options
+
 <replace> replace the text with what it says
 
+{option-1/option-2} <replace(option-1)> the replacable text only works with the listed option
+  
 - .help
   - Lists all commands in the chat
   - Usage
     - .help
-    - .help <moduel name>
+    - .help <module name>
 
 - .path
   - Toggles the path module and walks towards a specified destination
@@ -75,7 +78,7 @@
   - After doing the command, you have to leave the world and rejoin
   - Name does not reset back to normal when leaving and rejoining or switching to a different world, realm, or server
   - Usage
-    - .namespoof {name/reset} <name>
+    - .namespoof {name/reset} <name(name)>
   
 - .cbe
   - Gives a block that will spawn a command block minecart, sometimes invisible, that will execute a command repeatedly while command blocks are enabled
