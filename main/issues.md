@@ -10,6 +10,7 @@ The following is a list of known issues
   - Tracer with hitbox breaks tracer, only solution is to die
   - Hitbox does not reset immediately, you need to change dimensions, kill the user, or die to change it back
   - Scaffold crashes when shut off
+  - .nbt will sometimes not work. If given an error like "invalid nbt", try a different nbt command. For example, `.nbt load` or `.give shulker_box 1 0 1`. If the nbt gives a different error or isn't fixed with a different command, [join the discord](https://discord.gg/horion) and ask for help in the nbt chat
 
 if the injector says "can't find a download link" or "DLL broken" download the [dll](https://horion.download/dll) and [xtreme injector](https://www.unknowncheats.me/forum/downloads.php?do=file&id=21570&act=down&actionhash=1639347436-42eecac7227064b0601d22c3ff1b1425a2056af7) or [Fate injector](https://github.com/fligger/FateInjector/releases/tag/1.0)
 
