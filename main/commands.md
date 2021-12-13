@@ -33,7 +33,7 @@
       - Replaces anything in the active slot with the block listed in the nbt you copied if it was designed to be .nbt load
     - Write
       - Replaces the enchantments, occupants, and other data tags of the item being held if the nbt you copied was designed to be .nbt write
-      - Can get the same effect with **`.give <item> <amount> <tile id> 1`** where the 1 means .nbt write
+      - Can get the same effect with `.give <item> <amount> <tile id> 1` where the 1 means .nbt write
     - Save
       - Copies the nbt data of the item being held
     - Read
