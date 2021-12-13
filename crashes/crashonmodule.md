@@ -7,6 +7,7 @@ The following modules have known problems
   - Blink
   - Vanilla++ (shift+click in inventory)
   - Damage
+  - Scaffold
  
 If your game crashes with a module not on this list please report it in the [discord](https://discord.gg/horion)
 
