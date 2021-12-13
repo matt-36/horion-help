@@ -53,8 +53,9 @@
     - Preview
       - Shows an outline where the crystall will be placed
 
-* ## Criticals
-  -
+* ## Criticals (Broken)
+  - Makes every hit critical 
+
 * ## Hitbox
   - Changes the hitbox size of players and mobs
   - Settings
@@ -64,17 +65,37 @@
       - Changes the width of the changed hitbox
     - Includes mobs
       - Makes the hitbox change effect mobs
+
 * ## InfiniteAura
   -
+
 * ## Killaura
-  -
+  - Punches anyone within a specified range anywhere around you
+  - Settings
+    - MultiAura
+      -
+    - MobAura
+      - Makes killaura attack mobs
+    - Range
+      - Changes the distance a person can be before killaura attacks
+    - Delay
+      - determines how long it takes between each click in ticks (20 per second)
+    - Hurttime
+      -
+    - AutoWeapon (Broken)
+      - Automatically equips a weapon when a user gets close
+    - Silent Rotations
+      -
+
 * ## Reach
   - Increases your reach distance for hitting players
   - Settings
     - Reach Value
       - Determines how much farther you can hit entities
+
 * ## Teams
   -
+
 * ## TriggerBot
   - Automatically hits any entities when aimed at
   - Settings
