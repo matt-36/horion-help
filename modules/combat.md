@@ -73,19 +73,19 @@
   - Punches anyone within a specified range anywhere around you
   - Settings
     - MultiAura
-      -
+      - Hits multiple people at the same time
     - MobAura
       - Makes killaura attack mobs
     - Range
       - Changes the distance a person can be before killaura attacks
     - Delay
-      - determines how long it takes between each click in ticks (20 per second)
+      - Determines how long it takes between each click in ticks (20 per second)
     - Hurttime
       -
     - AutoWeapon (Broken)
       - Automatically equips a weapon when a user gets close
     - Silent Rotations
-      -
+      - Makes your head look like its rotating
 
 * ## Reach
   - Increases your reach distance for hitting players
@@ -94,7 +94,12 @@
       - Determines how much farther you can hit entities
 
 * ## Teams
-  -
+  - Stops you from hurting your teammates in team games
+  - Settings
+    - Is Allied
+      - unknown
+    - Same Color
+      - unknown
 
 * ## TriggerBot
   - Automatically hits any entities when aimed at
