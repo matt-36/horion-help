@@ -1,63 +1,84 @@
 # Combat module
 
 * ## Aimbot
-  - aims at the head of a close
-  - **currently aims above head**
-  - settings
-    - range
-      - determines how far a user can be until aimbot stops working
-    - require click
-      - only aims when you click
-    - only weapons
-      - only aims when you are holding a weapon
-    - vertical
-      - toggles aiming up and down, disabling fixes aiming above head glitch
-    - horizontal range
-      - determines how far the user can be horizontally before aimbot stops working
-    - vertical range
-      - determines how far the user can be vertically before aimbot stops working
-    - aim lock
-      - determines whether it snaps to the user or eases into the user
-    - includes mobs
-      - toggles whether aimbot will aim at mobs or not
+  - Aims at the head of a close
+  - **Currently aims above head**
+  - Settings
+    - Range
+      - Determines how far a user can be until aimbot stops working
+    - Require Click
+      - Only aims when you click
+    - Only weapons
+      - Only aims when you are holding a weapon
+    - Vertical
+      - Toggles aiming up and down, disabling fixes aiming above head glitch
+    - Horizontal Range
+      - Determines how far the user can be horizontally before aimbot stops working
+    - Vertical range
+      - Determines how far the user can be vertically before aimbot stops working
+    - Aim Lock
+      - Determines whether it snaps to the user or eases into the user
+    - Includes mobs
+      - Toggles whether aimbot will aim at mobs or not
 
 * ## AutoClicker
-  - automatically clicks your mouse for you
-  - settings
-    - rightclick
-      - determines whether it right clicks, or places, instead of attacks
-    - only weapons
-      - only clicks when you are holding a weapon
-    - break blocks
-      - determines whether it will be able to break blocks or not
-    - delay
-      - determines how long it takes between each click in ticks (20 per second)
-    - hold
-      - determines whether you have to hold click or do nothing
+  - Automatically clicks your mouse for you
+  - Settings
+    - RightClick
+      - Determines whether it right clicks, or places, instead of attacks
+    - Only weapons
+      - Only clicks when you are holding a weapon
+    - Break Blocks
+      - Determines whether it will be able to break blocks or not
+    - Delay
+      - Determines how long it takes between each click in ticks (20 per second)
+    - Hold
+      - Determines whether you have to hold click or do nothing
 
 * ## BowAimbot
-  - aimbot but for a bow
-  - settings
-    - silent
-      - currently broken
-    - predicts
-      - calculates where the player will be based on your distance and the players speed 
-    - visualize
-      - shows the prediction of where the user will be based on your distance and the players speed
+  - Aimbot but for a bow
+  - Settings
+    - Silent
+      - Currently Broken
+    - Predicts
+      - Calculates where the player will be based on your distance and the players speed 
+    - Visualize
+      - Shows the prediction of where the user will be based on your distance and the players speed
 
 * ## CrystalAura
-  -
+  - Automatically destroys all crystals within an area of you and/or a player
+  - Settings
+    - Range
+      -Determines how close you can get without automatically breaking the crystal
+    - Preview
+      - Shows an outline where the crystall will be placed
+
 * ## Criticals
   -
 * ## Hitbox
-  -
+  - Changes the hitbox size of players and mobs
+  - Settings
+    - Height
+      - Changes the height of the changed hitbox
+    - Width
+      - Changes the width of the changed hitbox
+    - Includes mobs
+      - Makes the hitbox change effect mobs
 * ## InfiniteAura
   -
 * ## Killaura
   -
 * ## Reach
-  -
+  - Increases your reach distance for hitting players
+  - Settings
+    - Reach Value
+      - Determines how much farther you can hit entities
 * ## Teams
   -
 * ## TriggerBot
-  -
+  - Automatically hits any entities when aimed at
+  - Settings
+    - Include Mobs
+      - Makes the triggerbot hit mobs
+    - Delay 
+      - Determines how long it takes between each click in ticks (20 per second)
