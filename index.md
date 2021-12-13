@@ -6,9 +6,9 @@ The following pages where created to help and address common problems encountere
 
 First find from the list below the page you need.
 
-  - [Help with installation](install.md)
-  - [Help with modules](modules.md)
-  - [Help with an issue](issues.md)
-  - [Help with a crash](crashes.md)
+  - [Help with installation](main/install.md)
+  - [Help with modules](main/modules.md)
+  - [Help with an issue](main/issues.md)
+  - [Help with a crash](main/crashes.md)
 
 If none of the above are what you need, join the [discord](https://discord.gg/horion)
