@@ -2,6 +2,8 @@
 
 ## Using the official horion injector
 
+#### *If you have an issue downloading anything, visit the [issues page](issues.md)*
+
 #### Step 1: Downloading the injector 
 
 Visit the [horion website](https://horion.download) and press the download button
@@ -33,6 +35,7 @@ Enter a game or world and use the client
 ### Step 2: Download an injector
 
   - [Fate injector](https://github.com/fligger/FateInjector/releases/tag/1.0)
+  - [xtreme injector](https://www.unknowncheats.me/forum/downloads.php?do=file&id=21570&act=down&actionhash=1639347436-42eecac7227064b0601d22c3ff1b1425a2056af7)
 
 #### Step 3: Launch minecraft 
 
