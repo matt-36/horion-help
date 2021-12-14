@@ -28,7 +28,7 @@
   - Outlines any chests
   - Settings
       - Outline
-          - Unknown
+          - Removes 3D effect
 
 * ## ESP
   - Outlines any users
@@ -80,8 +80,7 @@
           - Changes the size of the HUD
 
 * ## NameTags
-  - 
-  -
+  - ### (((((unknown)))))
 
 * ## NightMode
   - Makes the sky darker
@@ -121,8 +120,7 @@
           - Changes how much time is visually added
 
 * ## ViewModel
-  -
-  -
+  - ### (((((unknown)))))
 
 * ## Waypoints
   - Lets you see waypoints you set with the waypoint command, you can find the explanation in the [commands](../features/commands.md) page
@@ -135,9 +133,12 @@
           - Shows coords beneath the name of the waypoint
 
 * ## Xray
-  -
-  -
+  - Allows you to see through the ground to search for ores
 
 * ## Zoom
-  -
-  -
+  - Applies a speed effect to zoom in and out
+  - Settings
+    - Strength
+        - Determines how far it is zoomed in or out, starts zooming in at about 38
+    - Smooth
+        - Applies an ease-in-out effect

@@ -163,7 +163,7 @@
 - .config
   - Allows you to save your current active modules and settings
   - Usage
-    - `.config {save/load} <name>`
+    - `.config {save/load/new} <name>`
     - `.config save`
 
 - .setprefix

@@ -67,7 +67,7 @@
       - Makes the hitbox change effect mobs
 
 * ## InfiniteAura
-  -
+  - ### (((((unknown)))))
 
 * ## Killaura
   - Punches anyone within a specified range anywhere around you
@@ -81,7 +81,7 @@
     - Delay
       - Determines how long it takes between each click in ticks (20 per second)
     - Hurttime
-      -
+      - ### (((((unknown)))))
     - AutoWeapon (Broken)
       - Automatically equips a weapon when a user gets close
     - Silent Rotations
@@ -97,9 +97,9 @@
   - Stops you from hurting your teammates in team games
   - Settings
     - Is Allied
-      - unknown
+      - ### (((((unknown)))))
     - Same Color
-      - unknown
+      - ### (((((unknown)))))
 
 * ## TriggerBot
   - Automatically hits any entities when aimed at

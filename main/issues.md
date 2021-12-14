@@ -7,11 +7,18 @@ The following is a list of known issues
   - NoFall doesn't work on realms
   - Reach only extends by one block
   - Taking fall damage when flying, impossible to fix since fall damage is now server sided, meaning no way to change it
-  - Damage crashes game, uses fall damage so it won't work anyways
+  - Fly deals fall damage, impossible to fix
+  - Airstuck deals fall damage, impossible to fix
+  - Airjump deals fall damage, impossible to fix
+  - Airswim deals fall damage, impossible to fix
+  - Damage crashes game, uses fall damage so it won't work anyways  
   - Tracer with hitbox breaks tracer, only solution is to die
   - Hitbox does not reset immediately, you need to change dimensions, kill the user, or die to change it back
   - Scaffold crashes when shut off
   - .nbt will sometimes not work. If given an error like "invalid nbt", try a different nbt command. For example, `.nbt load` or `.give shulker_box 1 0 1`. If the nbt gives a different error or isn't fixed with a different command, [join the discord](https://discord.gg/horion) and ask for help in the nbt chat
+  - AntiVoid randomly freezes you in air and teleports you far away from where you were
+
+If you have a module open that crashes the game saved to your config, delete it. You can find a guide on the [crash-on-module page](../crashes/crashonmodule.md)
 
 if the injector says "can't find a download link" or "DLL broken" download the [dll](https://horion.download/dll) and [xtreme injector](https://www.unknowncheats.me/forum/downloads.php?do=file&id=21570&act=down&actionhash=1639347436-42eecac7227064b0601d22c3ff1b1425a2056af7) or [Fate injector](https://github.com/fligger/FateInjector/releases/tag/1.0)
 
