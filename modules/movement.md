@@ -50,7 +50,10 @@
     - Only works when you use .path
 
 * FastLadder
-    - 
+    - Makes you climb up ladders faster
+    - Settings
+        - Speed
+            - Changes how fast you climb ladders
 
 * Glide
     -
