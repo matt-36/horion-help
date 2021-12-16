@@ -25,3 +25,26 @@ or
 The difference between how you can use these NBTs is kinda big. For `.nbt load`, you only get the wooden sword with the unbreakable tag, and thats it. Although, with `.nbt write`, you can give yourself any breakable item, do `.nbt write`, and then it will be indestructable. So, as a recap, an NBT that starts with a tag, like `{ench:[` is a `.nbt write` NBT, and an NBT that starts with an item, like `{Count:1b,Name:"` or `{{Items:[` (notice the extra bracket) is a `.nbt load` NBT.
 
 ## NBT tags
+
+NBT tags are what give items effects, like enchantments, names, and entities. There are many tags, and even tags in tags, which will come in a bit later.
+
+### In `tag:{`
+
+- ench
+- Unbreaking
+- Occupants
+- display
+
+### Outside `tag:{`
+
+- CanPlaceOn
+- CanDestroy
+- Damage
+- Count
+- Slot
+- Name
+- tag
+
+### Broken tags
+
+- KeepOnDeath
