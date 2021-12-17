@@ -95,8 +95,9 @@
   - Usage
     - `.gamemode {0/1/2}`
 
-- .friend
+- .friend (broken)
   - Friends users so you don't hurt them
+  - has a module to do it as well, midclick
   - Usage
     - `.friend <username>`
 
@@ -188,12 +189,6 @@
   - Usage
     - `.xp <amount>`
     - `.xp <amount>L`
-
-- .execute
-  - ## (((((Unknown)))))
-
-- .script
-  - ## (((((Unkown)))))
 
 - .modules
   - Lists all modules
