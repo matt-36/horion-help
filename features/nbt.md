@@ -22,7 +22,7 @@ or
 {Unbreakable:1b}
 ```
 
-The difference between how you can use these NBTs is kinda big. For `.nbt load`, you only get the wooden sword with the unbreakable tag, and thats it. Although, with `.nbt write`, you can give yourself any breakable item, do `.nbt write`, and then it will be indestructable. So, as a recap, an NBT that starts with a tag, like `{ench:[` is a `.nbt write` NBT, and an NBT that starts with an item, like `{Count:1b,Name:"` or `{{Items:[` (notice the extra bracket) is a `.nbt load` NBT.
+The difference between how you can use these NBTs is kinda big. For `.nbt load`, you only get the wooden sword with the unbreakable tag, and thats it. Although, with `.nbt write`, you can give yourself any breakable item, do `.nbt write`, and then it will be indestructable. So, as a recap, an NBT that starts with a tag, like `{ench:[` is a `.nbt write` NBT, and an NBT that starts with an item, like `{Count:1b,Name:"` or `{%raw%}{{Items:[{%endraw%}` (notice the extra bracket) is a `.nbt load` NBT.
 
 ## NBT tags
 
