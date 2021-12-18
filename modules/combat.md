@@ -48,6 +48,10 @@
 * ## CrystalAura
   - Automatically destroys all crystals within an area of you and/or a player
   - Settings
+    - Autoplace (Broken)
+      -It places crystals automatically when you're looking at obsidian or bedrock
+    - AutoSelect (Broken)
+      -Basically it selects crystals on your hotbar
     - Range
       - Determines how close you can get without automatically breaking the crystal
     - Preview
