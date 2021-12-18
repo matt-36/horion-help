@@ -49,7 +49,7 @@
   - Automatically destroys all crystals within an area of you and/or a player
   - Settings
     - Range
-      -Determines how close you can get without automatically breaking the crystal
+      - Determines how close you can get without automatically breaking the crystal
     - Preview
       - Shows an outline where the crystall will be placed
 
@@ -67,7 +67,14 @@
       - Makes the hitbox change effect mobs
 
 * ## InfiniteAura
-  - ### (((((unknown)))))
+  - Allows for longer reach killaura (Buggy)
+  - Settings
+    - MultiAura
+      - Hits multiple people at the same time
+    - Range
+      - Changes the distance a person can be before infinite aura attacks
+    - Delay
+      - Determines how long it takes between each click in ticks (20 per second)
 
 * ## Killaura
   - Punches anyone within a specified range anywhere around you
@@ -81,7 +88,7 @@
     - Delay
       - Determines how long it takes between each click in ticks (20 per second)
     - Hurttime
-      - ### (((((unknown)))))
+      - Only attack once possible (players have a hurt cooldown)
     - AutoWeapon (Broken)
       - Automatically equips a weapon when a user gets close
     - Silent Rotations
@@ -97,9 +104,9 @@
   - Stops you from hurting your teammates in team games
   - Settings
     - Is Allied
-      - ### (((((unknown)))))
+      - Checks players data to see if they are teamed with you
     - Same Color
-      - ### (((((unknown)))))
+      - Checks nametag name to determine players team
 
 * ## TriggerBot
   - Automatically hits any entities when aimed at

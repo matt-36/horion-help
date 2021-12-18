@@ -80,7 +80,7 @@
           - Changes the size of the HUD
 
 * ## NameTags
-  - ### (((((unknown)))))
+  - Displays custom nametags including armor and helt item
 
 * ## NightMode
   - Makes the sky darker
@@ -120,7 +120,18 @@
           - Changes how much time is visually added
 
 * ## ViewModel
-  - ### (((((unknown)))))
+  - Modifies where the players hand model sits in first person
+  - Settings
+    - Reset
+      - Reset settings to default
+    - Translate
+      - Enables the ability to translate model
+    - Scale
+      - Enables the ability to change model size
+    - Translate X, Y, Z
+      - Sliders to modify translation
+    - Scale X, Y, Z
+      - Sliders to modify size
 
 * ## Waypoints
   - Lets you see waypoints you set with the waypoint command, you can find the explanation in the [commands](../features/commands.md) page
