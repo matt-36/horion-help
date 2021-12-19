@@ -6,4 +6,4 @@ Select a feature below to view information on it
   - [Keybinds](../features/keybinds.md)
   - [Skins](../features/skins.md)
   - [Commands](../features/commands.md)
-  - [Nbt](../features/commands.md)
+  - [Nbt](../features/nbt.md)
