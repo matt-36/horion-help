@@ -194,3 +194,11 @@
   - Lists all modules
   - Usage
     - `.modules`
+- .rename
+  - Rename's your item in hand
+  - Usage
+    - `.rename <name>`
+- .repair
+  - Repair's your item in hand
+  - Usage
+    - `.repair`
