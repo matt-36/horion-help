@@ -2,7 +2,6 @@
 
 The following is a list of known issues
 
-  - Game crashes when disabling blink
   - Insta break does not work on realms
   - NoFall doesn't work on realms
   - Reach only extends by one block
