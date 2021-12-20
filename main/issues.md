@@ -16,6 +16,7 @@ The following is a list of known issues
   - Scaffold crashes when shut off
   - .nbt will sometimes not work. If given an error like "invalid nbt", try a different nbt command. For example, `.nbt load` or `.give shulker_box 1 0 1`. If the nbt gives a different error or isn't fixed with a different command, [join the discord](https://discord.gg/horion) and ask for help in the nbt chat
   - AntiVoid randomly freezes you in air and teleports you far away from where you were
+  - Repair command crashes your game if you aren't holding an item with durability 
 
 If you have a module open that crashes the game saved to your config, delete it. You can find a guide on the [crash-on-module page](../crashes/crashonmodule.md)
 
