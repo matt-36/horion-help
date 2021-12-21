@@ -3,8 +3,6 @@
 * ## InstaBreak 
   - Mine blocks instantly
   - **Broken on realms due to Server Authoritive Breaking**
-  - Settings
-    - None
 
 * ## Nuker
   - Break blocks around you.
