@@ -17,7 +17,7 @@
 * AutoArmor (Broken)
     - Automatically equip armor
 
-* AutoTotem
+* AutoTotem (Broken)
     - Automatically put totems into your offhand from your inventory
 
 * BlockReach
